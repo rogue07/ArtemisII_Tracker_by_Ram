@@ -37,7 +37,7 @@ Then unzip and follow the [Quick Start](#-quick-start) steps below.
 
 ### Option B — Direct file download with wget (Linux / macOS / WSL)
 ```bash
-BASE=https://raw.githubusercontent.com/rogue07/artemis-tracker/main
+BASE=https://raw.githubusercontent.com/rogue07/ArtemisII_Tracker_by_Ram/main
 
 mkdir artemis-tracker && cd artemis-tracker
 wget $BASE/app.py
@@ -46,7 +46,7 @@ wget $BASE/install.py
 
 ### Option C — Direct file download with curl
 ```bash
-BASE=https://raw.githubusercontent.com/rogue07/artemis-tracker/main
+BASE=https://raw.githubusercontent.com/rogue07/ArtemisII_Tracker_by_Ram/main
 
 mkdir artemis-tracker && cd artemis-tracker
 curl -O $BASE/app.py
@@ -55,7 +55,7 @@ curl -O $BASE/install.py
 
 ### Option D — Clone with git (no login needed for public repos)
 ```bash
-git clone https://github.com/rogue07/artemis-tracker.git
+git clone https://github.com/rogue07/ArtemisII_Tracker_by_Ram.git
 cd artemis-tracker
 ```
 
