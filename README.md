@@ -229,17 +229,7 @@ Swap the Horizons target ID in `horizons_query("-1024")`. Other interesting IDs:
 ---
 
 
-```bash
-cd artemis-tracker
-git init
-git add app.py install.py README.md .gitignore
-git commit -m "Initial commit — Artemis II live mission tracker"
-git branch -M main
-git remote add origin https://github.com/rogue07/artemis-tracker.git
-git push -u origin main
-```
 
----
 
 ## 📜 License
 
