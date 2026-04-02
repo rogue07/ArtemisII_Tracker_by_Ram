@@ -37,7 +37,6 @@ Then unzip and follow the [Quick Start](#-quick-start) steps below.
 
 ### Option B — Direct file download with wget (Linux / macOS / WSL)
 ```bash
-# Replace YOUR_USERNAME with the GitHub username of this repo
 BASE=https://raw.githubusercontent.com/rogue07/artemis-tracker/main
 
 mkdir artemis-tracker && cd artemis-tracker
