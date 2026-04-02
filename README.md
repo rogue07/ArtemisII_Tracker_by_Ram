@@ -14,6 +14,9 @@ A real-time mission dashboard for NASA's **Artemis II** — the first crewed lun
 
 ## 📸 Preview
 
+![ArtemisII_trqcker](https://github.com/user-attachments/assets/6f7680bc-2976-440b-a934-d29e8c223952)
+
+
 ```
 🛰️ Artemis II: Mission Control
 Mission Day 2  ·  🌌 Trans-Lunar Coast  ·  Data: JPL Horizons · NOAA SWPC · NASA
