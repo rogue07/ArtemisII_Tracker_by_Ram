@@ -228,16 +228,6 @@ Swap the Horizons target ID in `horizons_query("-1024")`. Other interesting IDs:
 
 ---
 
-## 📋 Publishing This Repo (Making It Public)
-
-When creating the repository on GitHub, make sure to select **Public** so anyone can download it without logging in:
-
-1. Go to [github.com/new](https://github.com/new)
-2. Name it `artemis-tracker`
-3. Select **Public** ← important
-4. Do **not** check "Add a README" (you already have one)
-5. Click **Create repository**
-6. Push your files:
 
 ```bash
 cd artemis-tracker
@@ -248,8 +238,6 @@ git branch -M main
 git remote add origin https://github.com/rogue07/artemis-tracker.git
 git push -u origin main
 ```
-
-After pushing, anyone can download via ZIP or `wget`/`curl` using the commands in the [Download](#️-download-no-github-account-required) section above — no account needed.
 
 ---
 
